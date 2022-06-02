@@ -9,7 +9,7 @@ brew "hub"
 brew "mas"
 brew "node"
 brew "openjdk"
-brew "aws/tap/aws-sam-cli"
+brew "aws/tap/aws-sam-cli", link: false
 cask "alfred"
 cask "cyberduck"
 cask "datagrip"
