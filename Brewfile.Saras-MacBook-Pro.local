@@ -6,6 +6,7 @@ brew "autoenv"
 brew "cask"
 brew "docker-compose"
 brew "hub"
+brew "libpq", link: true
 brew "mas"
 brew "node"
 brew "openjdk"
