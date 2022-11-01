@@ -19,7 +19,7 @@ brew "ninja"
 brew "node"
 brew "opencv"
 brew "openjdk"
-brew "aws/tap/aws-sam-cli", link: false
+brew "aws/tap/aws-sam-cli"
 cask "alfred"
 cask "cyberduck"
 cask "datagrip"
