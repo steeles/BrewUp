@@ -1,0 +1,45 @@
+tap "aws/tap"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "autoenv"
+brew "pkg-config"
+brew "coreutils"
+brew "cask"
+brew "ccache"
+brew "openblas"
+brew "cmake"
+brew "docker-compose"
+brew "graphviz"
+brew "hub"
+brew "libpq", link: true
+brew "llvm"
+brew "mas"
+brew "ninja"
+brew "node"
+brew "opencv"
+brew "openjdk"
+brew "aws/tap/aws-sam-cli"
+cask "alfred"
+cask "cyberduck"
+cask "datagrip"
+cask "discord"
+cask "docker"
+cask "gimp"
+cask "iterm2"
+cask "keepingyouawake"
+cask "miniconda"
+cask "notion"
+cask "postman"
+cask "pycharm"
+cask "slack"
+cask "sourcetree"
+cask "spectacle"
+cask "visual-studio-code"
+mas "1Password 7", id: 1333542190
+mas "Clocker", id: 1056643111
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
