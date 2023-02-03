@@ -20,7 +20,7 @@ brew "opencv"
 brew "openjdk"
 brew "rust"
 brew "serverless"
-brew "aws/tap/aws-sam-cli", link: false
+brew "aws/tap/aws-sam-cli"
 cask "alfred"
 cask "cyberduck"
 cask "datagrip"
